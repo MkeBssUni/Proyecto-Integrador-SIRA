@@ -6,3 +6,4 @@ Backend y Frontend (Web y Móvil) de SIRA
 - Frontend Móvil React Native/Expo Cli
 - Modelo ER de la base de datos
 - Archivo SQL para configurar la BD
+- Vídeo demostrativo del funcionamiento
